@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Biothythms</string>
+    <string name="title_activity_main">Biothythms</string>
+    <string name="package_name">org.apolo.biorhythms</string>
+    <string name="custom_url_scheme">org.apolo.biorhythms</string>
+</resources>
